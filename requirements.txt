@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+agno
+langchain
+chromadb
+langchain-community
